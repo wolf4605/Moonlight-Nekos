@@ -8,7 +8,7 @@ branding:
     label:
       background: "#FFC0CB"
       text: "#000000"
-
+  
 links:
 - text: Server Invite
   link: https://retype.com/guides/getting-started/

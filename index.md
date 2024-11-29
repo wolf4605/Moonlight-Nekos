@@ -5,6 +5,10 @@ weight: 2000
 # **🌙 Welcome to Moonlight Nekos! 🐾**
 ---
 
+!!!warning <ins> Important Announcement </ins>
+This Guide is still under construction. So make sure to consult with the server staff before following any info mentioned on this site.
+!!!
+
 Greetings, adventurers! Whether you're a seasoned warrior, a master crafter, or a curious newcomer, you've found a home here under the moon's gentle glow. We are the **Moonlight Nekos**, a vibrant and supportive community of **Toram Online** players, united by our shared love for adventure, teamwork, and, of course, a little bit of feline charm. 🐱✨
 
 **🌟 What We Offer:**
