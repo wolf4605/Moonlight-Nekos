@@ -3,68 +3,71 @@ icon: "book"
 weight: 1000
 ---
 # 📚 Moonlight Nekos Guides
+
 ___
 Welcome to the **Guides** section of Moonlight Nekos! This is your ultimate hub for all the knowledge and strategies you need to excel in **Toram Online**. Explore our carefully curated content, designed to support players of all levels, from beginners to veterans.
 
-## 🗂 Table of Contents:
+## 🗂 Table of Contents
+
+___
 
 ### 1. Getting Started
 
-   - Introduction to Toram Online
-
-   - Creating Your First Character
-
-   - Beginner Tips & Tricks
-
+- Introduction to Toram Online
+- Creating Your First Character
+- Beginner Tips & Tricks
+  
 ### 2. Class & Build Guides
 
-   - Overview of Classes
+- Overview of Classes
+- Skill Build Recommendations
+- Advanced Build Optimization
 
-   - Skill Build Recommendations
+### 3. Land System
 
-   - Advanced Build Optimization
+- How to accquire a Land
+- Managing your Land
+- Food Buffs & How to Cook
 
-### 3. Crafting & Professions
+### 4. Pets
 
-   - Crafting Basics
+- Overview of Pets
+- How to Accquire a Pet
+- Taking Care of Your Pet
+- Pet Attributes & Skills
+  
+### 5. Leveling
 
-   - Gathering Resources Efficiently
+- Normal Leveling
+- Power Leveling
+- Pet Leveling
+  
+### 6. Crafting & Professions
 
-   - Mastering Blacksmithing & Alchemy
+- Crafting Basics
+- Gathering Resources Efficiently
+- Mastering Blacksmithing & Alchemy
 
-### 4. Boss Strategies
+### 7. Boss Strategies
 
-   - Beginner-Friendly Bosses
+- Beginner-Friendly Bosses
+- Advanced Boss Mechanics
+- Farming Rare Drops
 
-   - Advanced Boss Mechanics
+### 7. Economy & Trading
 
-   - Farming Rare Drops
+- Understanding the Market
+- Safe Trading Practices
+- Maximizing Profit Through Merchanting
 
-### 5. Events & Seasonal Content
+### 8. Community Contributions
 
-   - Navigating Limited-Time Events
-
-   - Best Strategies for Seasonal Quests
-
-   - Reward Maximization Tips
-
-### 6. Economy & Trading
-
-   - Understanding the Market
-
-   - Safe Trading Practices
-
-   - Maximizing Profit Through Merchanting
-
-### 7. Community Contributions
-
-   - User-Submitted Builds & Tips
-
-   - Highlighted Guides from Nekos Members
-
-   - How to Submit Your Own Guide
+- User-Submitted Builds & Tips
+- Highlighted Guides from Nekos Members
+- How to Submit Your Own Guide
 
 ---
+
 **📖 Explore, Learn, and Grow!**
 
 Each section is filled with detailed articles, helpful images, and videos to ensure you have everything you need to succeed. Happy adventuring, and may the moonlight guide your path! 🌙
