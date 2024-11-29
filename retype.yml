@@ -4,13 +4,25 @@ url: https://wolf4605.github.io/Moonlight-Nekos/
 branding:
   title: MoonLight Nekos
   label: Guides
+  logo: /assets/logo_dark.png
+  logoDark: /assets/logo_dark.png
   colors:
     label:
       background: "#FFC0CB"
       text: "#000000"
   
 links:
-- text: Server Invite
-  link: https://retype.com/guides/getting-started/
+  - text: Home
+    link: /index.md
+  - text: Credits
+    link: /credits.md
+  - text: Join Server
+    link: https://retype.com/guides/getting-started/
+  
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
+
+favicon: /assets/logo_dark.png
+
+meta:
+  title: " | MoonLight Nekos" 

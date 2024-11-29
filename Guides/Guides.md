@@ -1,7 +1,7 @@
 ---
 icon: book
 weight: 1000
-author:
+title: Guides
 ---
 # 📚 Moonlight Nekos Guides
 

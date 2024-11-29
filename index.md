@@ -1,8 +1,9 @@
 ---
 icon: home-fill
 weight: 2000
+title: Welcome
 ---
-# **🌙 Welcome to Moonlight Nekos! 🐾**
+# <img src=./assets/logo_dark.png width=50 height=50> **Welcome to Moonlight Nekos! 🐾**
 ---
 
 !!!warning <ins> Important Announcement </ins>
@@ -24,3 +25,5 @@ Greetings, adventurers! Whether you're a seasoned warrior, a master crafter, or 
 Whether you're here to grind, quest, or simply chat under the moonlight, you'll find a warm welcome among the Nekos. 🐾 Join us, and let’s weave unforgettable stories together in the world of Toram Online.
 
 **🌙 Let the moon guide you, and let’s shine together! ✨**
+
+<iframe src="https://discord.com/widget?id=990563283650089000&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
