@@ -3,7 +3,12 @@ output: .retype
 url: https://wolf4605.github.io/Moonlight-Nekos/
 branding:
   title: MoonLight Nekos
-  label: Guide
+  label: Guides
+  colors:
+    label:
+      background: "#FFC0CB"
+      text: "#000000"
+
 links:
 - text: Server Invite
   link: https://retype.com/guides/getting-started/
