@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml.gz
+Sitemap: https://wolf4605.github.io/Moonlight-Nekos/sitemap.xml.gz
