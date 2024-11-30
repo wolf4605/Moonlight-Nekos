@@ -1,5 +1,4 @@
 ---
-layout: page
 weight: 1000
 ---
 
