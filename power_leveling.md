@@ -26,9 +26,9 @@ Some bosses are **main quest locked** which means you need to defeat the boss in
 |129-145 |[Cerberus (Ultimate)](https://coryn.club/monster.php?id=692)                   |Boss           |Spring of Rebirth: Top             |Water   |![](/assets/monsters/cerberus.png)       |
 |145-156 |[Super Death Mushroom](https://coryn.club/monster.php?id=1051)                 |Mini Boss      |Monster's Forest: Animal Trail     |Dark    |![](/assets/monsters/sdm.png)            |
 |156-162 |[Commander Golem](https://coryn.club/monster.php?id=1067)                      |Mini Boss      |Lufenas Mansion: Entrance          |Dark    |![](/assets/monsters/commander_golem.png)|
-|162-178 |[🔒 Venena Coenubia (Nightmare)](https://coryn.club/monster.php?id=1293)          |Boss           |Ultimea Palace: Throne             |Fire    |![](/assets/monsters/nena.jpg)           |
+|162-178 |[🔒 Venena Coenubia (Nightmare)](https://coryn.club/monster.php?id=1293)       |Boss           |Ultimea Palace: Throne             |Fire    |![](/assets/monsters/nena.jpg)           |
 |178-182 |[Altobeplas](https://coryn.club/monster.php?id=1498)                           |Mini Boss      |Rokoko Plains                      |Fire    |![](/assets/monsters/altobeplas.png)     |
-|182-199 |[🔒 Venena Coenubia (Ultimate)](https://coryn.club/monster.php?id=1294)           |Boss           |Ultimea Palace: Throne             |Fire    |![](/assets/monsters/nena.jpg)           |
+|182-199 |[🔒 Venena Coenubia (Ultimate)](https://coryn.club/monster.php?id=1294)        |Boss           |Ultimea Palace: Throne             |Fire    |![](/assets/monsters/nena.jpg)           |
 |199-215 |[Finstern The Dark Dragon](https://coryn.club/monster.php?id=1620)             |Boss           |Dark Dragon Shrine: Near the Top   |Dark    |![](/assets/monsters/finstern.png)       |
 |215-229 |[Espectro](https://coryn.club/monster.php?id=2186)                             |Mini Boss      |Arche Valley: Area 1               |Dark    |![](/assets/monsters/espectro.png)       |
 |229-244 |[Arachnidemon (Ultimate)](https://coryn.club/monster.php?id=2192)              |Boss           |Arche Valley: Depths               |Dark    |![](/assets/monsters/arachnidemon.png)   |
