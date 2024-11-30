@@ -15,7 +15,7 @@ Some bosses are **main quest locked** which means you need to defeat the boss in
 
 |Level   |Monster Name                                                                   |Type           |Location                           |Element | Image                                   |
 |:------:|:-----------------------------------------------------------------------------:|:-------------:|:---------------------------------:|:------:|:---------------------------------------:|
-|1-37    |[Shell Mask](https://coryn.club/monster.php?id=105)                            |Normal Monster |Nisel Mountain: Mountain Sidec     |Earth   |![](/assets/monsters/shell_mask.png)     |
+|1-36    |[Shell Mask](https://coryn.club/monster.php?id=105)                            |Normal Monster |Nisel Mountain: Mountain Sidec     |Earth   |![](/assets/monsters/shell_mask.png)     |
 |36-57   |[Bone Dragonewt](https://coryn.club/monster.php?id=239)                        |Normal Monster |Ancient Empress Tomb: Area 2       |Dark    |![](/assets/monsters/bone_dragonewt.png) |
 |57-62   |[Flare Volg (Hard)](https://coryn.club/monster.php?id=716)                     |Boss           |Fiery Volcano: Boss Map            |Fire    |![](/assets/monsters/flare_volg.png)     |
 |62-74   |[Flare Volg (Nightmare)](https://coryn.club/monster.php?id=717)                |Boss           |Fiery Volcano: Boss Map            |Fire    |![](/assets/monsters/flare_volg.png)     |
