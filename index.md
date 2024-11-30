@@ -3,7 +3,9 @@ icon: home-fill
 weight: 2000
 title: Welcome
 ---
+
 # <img src=./assets/logo_dark.png width=50 height=50> **Welcome to Moonlight Nekos! 🐾**
+
 ---
 
 !!!warning <ins> Important Announcement </ins>
