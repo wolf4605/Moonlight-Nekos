@@ -1,6 +1,6 @@
 ---
-icon: book
-weight: 1000
+icon: ":books:"
+order: 9999
 title: Guides
 ---
 # 📚 Moonlight Nekos Guides

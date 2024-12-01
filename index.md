@@ -1,7 +1,7 @@
 ---
 icon: home-fill
-weight: 2000
 title: Welcome
+order: 10000
 ---
 
 # <img src=./assets/logo_dark.png width=50 height=50> **Welcome to Moonlight Nekos! 🐾**
